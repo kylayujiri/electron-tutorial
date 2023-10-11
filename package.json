@@ -1,0 +1,15 @@
+{
+  "name": "electron-tutorial",
+  "version": "1.0.0",
+  "description": "Electron Tutorial App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyla Yujiri",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^27.0.0"
+  }
+}
